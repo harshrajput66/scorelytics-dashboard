@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Database (auto-generated on first run)
+*.db
+*.sqlite3
+
+# Generated CSV (auto-generated on first run)
+sample_data.csv
+
+# Generated PDF report cards
+report_card_*.pdf
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
